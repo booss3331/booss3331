@@ -7,6 +7,9 @@
 - ⚡ Fun fact: ...
 
 <!---
-booss3331/booss3331 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+booss2/booss2
+
+![Screenshot_2025-02-09-19-26-02-225_com android chrome](https://github.com/user-attachments/assets/94ca8491-c2b0-48ba-b097-52e77f5091f6)
+is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
